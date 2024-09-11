@@ -1,8 +1,7 @@
-# Cristopher
 
 <h1 align="center">¡Hola! Soy Cristopher</h1>
 
-<p align="center" style="font-size: 24px; color: #555;">
+<p align="center" style="font-size: 2rem; color: #555;">
   Un aprendiz de programación aventurándome en el mundo del código con <strong>JavaScript</strong>, <strong>Java</strong>, <strong>CSS</strong>, <strong>HTML</strong> y <strong>Bootstrap</strong>.
 </p>
 
