@@ -4,7 +4,7 @@
 
 ### Soy un aprendiz de programación aventurándome como **Trainee** en el mundo del código.
 
-#aventurandome
+# aventurandome
 
 ### Cada línea de código es una nueva aventura y estoy aquí para **aprender y crecer**, enfrentando cada desafío con la misma pasión y fortaleza que se necesita para alcanzar la luna. 🌙 Con una **taza de café** en una mano ☕ y un **teclado** en la otra 💻,  estoy decidido a conquistar el manejo optimizado y su ética..
 
