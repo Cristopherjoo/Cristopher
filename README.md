@@ -26,14 +26,16 @@ _"No desperdiciaré cada momento, aunque un bug me aceche. Si al avanzar tropiez
 
 ### Si en el trayecto **mi taza cayera** o **se soltaran las teclas** ⌨️, lo intentaré de todas formas, aunque implique **escribir en piedra**. 🏺
 
+
 ## 🛠️ Tecnologías que Uso 🛠️
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-%23F7DF1E?style=flat&logo=java&logoColor=black" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-%23E34F26?style=flat&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/CSS-%231572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/HTML-%23E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
 </p>
+
 
 
 ## 📧 Contacto 📧
